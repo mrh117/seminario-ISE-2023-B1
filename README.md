@@ -7,7 +7,7 @@ En esta última clase de Ingeniería de Servidores se plantea un taller práctic
 
 **NOTA:** El ejercicio, y por tanto la nota, depende del ranking establecido por vosotros. Sed honestos. Cada trabajo será evaluado por tres personas. La nota mínima será de 4.5 y la máxima de 10 aunque el profesor se reserva el derecho a modificarla en caso de encontrar anomalías en la redacción. Puede seguir más abajo las instrucciones específicas.
 
-## Ofertas de trabajo
+## 1. Ofertas de trabajo
 ---
 1. **Ingeniero de Sistemas Senior - Administración y Optimización de Infraestructuras**
 
@@ -44,9 +44,9 @@ SecureTech Solutions busca un Administrador de Redes y Seguridad de Sistemas. Ne
 
 ---
 
-## Instrucciones para enviar una carta de motivación
+## 2. Instrucciones para enviar una carta de motivación
 
-### Anonimización de la solicitud
+### 2.1 Anonimización de la solicitud
 
 Este repositorio es público y, por lo tanto, es preferible anonimizar las contribuciones del alumnado. Para ello, cada uno de vosotros obtendrá un código hash de su nombre real y, además, seleccionará un seudónimo.
 
@@ -70,14 +70,17 @@ El aspecto del resultado será una serie de valores similares a:
 
 **Como la código anterior es muy largo, para simplificar nuestro código seran solo las primeros 5 valores. Es decir, en el caso del ejemplo: `6a6c9`**
 
-2. **Elección de seudónimo:** No proporcioneis en ningún momento vuestro nombre real en la carta de motivación. En su lugar, podeis elegir uno de estos dos seudónimos: "Carmen Mola" o "Rafael Luna"
+2. **Elección de seudónimo:** No proporcioneis en ningún momento vuestro nombre real en la carta de motivación. En su lugar, podeis elegir uno de estos dos seudónimos: "Carmen Mola" o "Rafael Luna".
 
-Una vez seleccio
+### 2.2 Proceso de redacción y envío de la carta de motivación
 
-Proceso de sol y criterios de selección de las propuestas
 
-- Abre https://github.com/espsrc/databeers
-- Cree un nuevo archivo dentro de la carpeta `cartas` llamado <su_nombre>.md e incluya tu propuesta de presentación/charla siguiendo la plantilla proporcionada aquí (título, autores, presentador, y el resumen).
+- Puede hacer todo el proceso desde la web en que se encuentra.
+- Cree un nuevo archivo dentro de la carpeta `cartas` llamado `<su_codigo_hash>.md` y redacte la carta de motivación para la oferta elegida. No olvide utilizar seudónimo.
 - Haga un Pull Request (PR) para enviar su propuesta.
 
-Cada propuesta será evaluada por dos o más expertos en la materia. La aceptación se basará en la importancia, novedad e impacto potencial del trabajo. Si su propuesta es aceptada, su ponencia formará parte del evento y se incorporará al repositorio principal como ponencia aceptada.
+Cada propuesta será evaluada por tres compañeros. A su vez, usted evaluará tres propuestas. 
+
+## 3. Evaluación de cartas de motivación
+
+Espere instrucciones del profesor una vez haya enviado su carta de motivación. Para proceder con la evaluación de las cartas de sus compañeros [puede seguir este enlace](https://docs.google.com/spreadsheets/d/15kN9dRVdWs4Y2zVaqjeEW1LO0NQX3IH4dlF4KrP6quc/edit?usp=sharing)
