@@ -9,14 +9,14 @@ En esta última clase de Ingeniería de Servidores se plantea un taller práctic
 
 ## 1. Ofertas de trabajo
 ---
-1. **Ingeniero de Sistemas Senior - Administración y Optimización de Infraestructuras**
+1. **Ingeniero de Sistemas Junior - Administración y Optimización de Infraestructuras**
 
 - **Empresa:** TechSolutions Innovations
 - **Ubicación:** Ciudad Metrópolis
 - **Salario:** $80,000 - $90,000 al año
 - **Referencia:** TSIS-ADM2023
 
-Buscamos un Ingeniero de Sistemas Senior para liderar la administración de sistemas en TechSolutions Innovations. Requerimos más de 5 años de experiencia, sólidos conocimientos en virtualización y certificaciones relevantes (RHCE, MCSA). Tu papel será diseñar, implementar y optimizar infraestructuras informáticas complejas.
+Buscamos un Ingeniero de Sistemas Junior para unirse al equipo de administración de sistemas en TechSolutions Innovations. No se requiere experiencia previa pero si motivación y sólidos conocimientos en virtualización y certificaciones relevantes. Tu papel será diseñar, implementar y optimizar infraestructuras informáticas.
 
 ---
 
